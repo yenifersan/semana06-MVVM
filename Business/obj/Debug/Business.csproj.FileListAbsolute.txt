@@ -1,0 +1,10 @@
+C:\Users\Yenifer\Documents\6to_CICLO\Desarrollo_De_App_Avan\semana05\Semana05\Business\bin\Debug\Business.dll
+C:\Users\Yenifer\Documents\6to_CICLO\Desarrollo_De_App_Avan\semana05\Semana05\Business\bin\Debug\Business.pdb
+C:\Users\Yenifer\Documents\6to_CICLO\Desarrollo_De_App_Avan\semana05\Semana05\Business\bin\Debug\Data.dll
+C:\Users\Yenifer\Documents\6to_CICLO\Desarrollo_De_App_Avan\semana05\Semana05\Business\bin\Debug\Entity.dll
+C:\Users\Yenifer\Documents\6to_CICLO\Desarrollo_De_App_Avan\semana05\Semana05\Business\bin\Debug\Data.pdb
+C:\Users\Yenifer\Documents\6to_CICLO\Desarrollo_De_App_Avan\semana05\Semana05\Business\bin\Debug\Entity.pdb
+C:\Users\Yenifer\Documents\6to_CICLO\Desarrollo_De_App_Avan\semana05\Semana05\Business\obj\Debug\Business.csprojAssemblyReference.cache
+C:\Users\Yenifer\Documents\6to_CICLO\Desarrollo_De_App_Avan\semana05\Semana05\Business\obj\Debug\Business.csproj.CopyComplete
+C:\Users\Yenifer\Documents\6to_CICLO\Desarrollo_De_App_Avan\semana05\Semana05\Business\obj\Debug\Business.dll
+C:\Users\Yenifer\Documents\6to_CICLO\Desarrollo_De_App_Avan\semana05\Semana05\Business\obj\Debug\Business.pdb

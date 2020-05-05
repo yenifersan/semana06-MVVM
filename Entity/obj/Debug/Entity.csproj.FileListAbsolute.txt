@@ -1,0 +1,5 @@
+C:\Users\Yenifer\Documents\6to_CICLO\Desarrollo_De_App_Avan\semana05\Semana05\Entity\bin\Debug\Entity.dll
+C:\Users\Yenifer\Documents\6to_CICLO\Desarrollo_De_App_Avan\semana05\Semana05\Entity\bin\Debug\Entity.pdb
+C:\Users\Yenifer\Documents\6to_CICLO\Desarrollo_De_App_Avan\semana05\Semana05\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+C:\Users\Yenifer\Documents\6to_CICLO\Desarrollo_De_App_Avan\semana05\Semana05\Entity\obj\Debug\Entity.dll
+C:\Users\Yenifer\Documents\6to_CICLO\Desarrollo_De_App_Avan\semana05\Semana05\Entity\obj\Debug\Entity.pdb
